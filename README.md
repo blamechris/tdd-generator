@@ -1,4 +1,4 @@
-# tdd-generator
+# Chrisitect - Technical Design Document Generation
 
 Turn business requirements into clear, testable technical plans.
 
